@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.v-data-table__tr {
+    border-width: 1px;
+}
